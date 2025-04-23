@@ -1,0 +1,1 @@
+# we'd have to change the merge sort rule related to the indentical keys. instead of the rule chosing the key that comes first to remain first, the rule now needs to choose the key that came second to be put first. 
